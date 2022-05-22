@@ -8,6 +8,7 @@
   "compilerOptions": {
     "noImplicitAny": false,
     "declaration": true,
+    "sourceMap": true,
     "moduleResolution": "node",
     "module": "es2020",
     "target": "esnext"
